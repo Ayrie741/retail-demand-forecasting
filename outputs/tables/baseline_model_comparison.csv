@@ -1,0 +1,9 @@
+model,level,MAPE,sMAPE,MAE,RMSE
+Seasonal Naive,Total,34.9758,29.1133,7777.9333,8428.9087
+Seasonal Naive,Store,35.306,29.376,782.5133,844.8047
+Seasonal Naive,Item,36.2757,30.0144,158.6067,171.1847
+Seasonal Naive,Store-Item,42.7641,32.9116,16.9039,19.4706
+Linear Regression,Total,6.7956,7.0316,1514.0357,1951.4305
+Linear Regression,Store,7.1215,7.3558,159.5645,203.9148
+Linear Regression,Item,8.597,8.8581,37.7678,48.0195
+Linear Regression,Store-Item,20.048,19.9112,7.7838,9.6642

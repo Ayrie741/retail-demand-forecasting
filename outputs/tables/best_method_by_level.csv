@@ -1,0 +1,5 @@
+model,level,MAPE,sMAPE,MAE,RMSE
+LR + Top-Down,Item,7.7429,7.9728,34.6052,44.2082
+LR + Top-Down,Store,6.9755,7.2068,155.6783,199.2314
+LR + Top-Down,Store-Item,15.5008,15.2161,6.1184,7.6319
+Linear Regression,Total,6.7956,7.0316,1514.0357,1951.4305
